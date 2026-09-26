@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.DS_Store
+checkpoints/
+checkpoints_*/
+results/
+results_*/
+plots/
+*.pyc
+{checkpoints,results,plots}/
